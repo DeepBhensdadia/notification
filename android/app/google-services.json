@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "975331897547",
+    "project_id": "firetosqlite",
+    "storage_bucket": "firetosqlite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975331897547:android:3bd656d5027db080536b4e",
+        "android_client_info": {
+          "package_name": "com.example.firebase_sqflite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975331897547-tgpmpiu6kve0bn3p35smf9vld3t2855c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTqZhK2bUA6SGjU3I5bvJi88tSSz7EDwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975331897547-tgpmpiu6kve0bn3p35smf9vld3t2855c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "975331897547-79ucfbomi1n34mg454ong9f3pa0i5bhq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseSqflite"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975331897547:android:1d40424196a0bc3b536b4e",
+        "android_client_info": {
+          "package_name": "com.example.firebasetosqflite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975331897547-tgpmpiu6kve0bn3p35smf9vld3t2855c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTqZhK2bUA6SGjU3I5bvJi88tSSz7EDwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975331897547-tgpmpiu6kve0bn3p35smf9vld3t2855c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "975331897547-79ucfbomi1n34mg454ong9f3pa0i5bhq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseSqflite"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
