@@ -46,6 +46,7 @@ dependencies:
   loader_overlay: ^2.2.0
   connectivity_plus: ^4.0.1
   sqflite: ^2.2.8+4
+  firebase_messaging: ^14.6.5
 
 
 dev_dependencies:
